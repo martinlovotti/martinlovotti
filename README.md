@@ -9,7 +9,7 @@
 
 # Habilidades ☄
 
-Sass - React - HTML - Visual Studio Code - Bootstrap - Javascript - Css3 - Express.js - Git - XAMPP
+Sass - React - HTML - Visual Studio Code - Bootstrap - Javascript - Css3 - Express.js - Git - XAMPP-Knex.js
 
 # Contacto 📧
 Gmail: martin0022f@gmail.com
