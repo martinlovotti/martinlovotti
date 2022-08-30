@@ -2,9 +2,8 @@
 
 # Educación 👨‍🏫
 -Técnico en Informática profesional y personal (2015-2021)
--Carrera de desarrollo web Full Stack 
-(50% completado)
--Tecnicatura en programacion informática 
+-Frontend Developer 
+-Tecnicatura en programacion informática (2022-Actualidad)
 (Universidad Nacional de Quilmes)
 
 # Habilidades ☄
