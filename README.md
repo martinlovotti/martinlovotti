@@ -6,7 +6,7 @@
 (Universidad Nacional de Quilmes)
 
 #Tecnologías
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo de GitHub](https://banner2.cleanpng.com/20180917/skq/kisspng-javascript-logo-product-design-brand-1713939998436.webp)
 
 
 #Projects
