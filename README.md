@@ -6,7 +6,7 @@
 (Universidad Nacional de Quilmes)
 
 #Tecnologías
-![Logo de GitHub](https://simpleicons.org/icons/javascript.svg)
+![Logo de GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
 
 
 #Projects
