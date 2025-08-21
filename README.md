@@ -6,7 +6,7 @@
 (Universidad Nacional de Quilmes)
 
 # Tecnologías
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/><img src="https://cdn.simpleicons.org/react?viewbox=auto&size=30" alt="React" /><img src="https://cdn.simpleicons.org/api?viewbox=auto&size=30" alt="API" /><img src="https://cdn.simpleicons.org/postman?viewbox=auto&size=30" alt="Postman" /><img src="https://cdn.simpleicons.org/sqlite?viewbox=auto&size=30" alt="SQL" /><img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=30" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/><img src="https://cdn.simpleicons.org/react?viewbox=auto&size=30" alt="React" /><img src="https://cdn.simpleicons.org/postman?viewbox=auto&size=30" alt="Postman" /><img src="https://cdn.simpleicons.org/sqlite?viewbox=auto&size=30" alt="SQL" /><img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=30" alt="PostgreSQL" />
 
 # Projects
 [Patrones de Diseño](https://github.com/martinlovotti/TP-PatronesEnJava)
