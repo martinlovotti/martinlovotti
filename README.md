@@ -1,4 +1,4 @@
-# Hola Soy Martin 👋 💻
+# Hi there, I'm Martin 👋 💻
 
 I'm a passionate software developer, currently working on various projects involving full-stack web development and backend systems. 
 My work spans across building applications using modern technologies like **Java**, **React**, and **Spring**, and I have a strong interest in solving complex problems with clean, scalable solutions.
